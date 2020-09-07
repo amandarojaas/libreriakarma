@@ -1,0 +1,64 @@
+body {
+  margin: 40px;
+  background-color: #E2F1AF;
+}
+/* propiedades cuerpo de la pagina, color verde claro */
+
+.wrapper {
+  display: grid;
+  grid-gap: 50px;
+  grid-template-columns: 500px 500px;
+  padding-top: 100px;
+}
+/* Grilla de los elementos*/
+
+.box {
+  background-color: #E2F1AF;
+  color: #fff;
+  border-radius: 5px;
+  padding: 50px;
+  font-size: 150%;
+  text-align: center;
+}
+/* cada elemnto de la grilla esta dentro de una caja, color verde claro */
+
+}
+div.box img {
+  height: 400px;
+  width: 250px;
+}
+/* propiedades imagenes dentro de las cajas */
+
+div.box h2 {
+  color: #2B3A67;
+  font-size: 100%;
+}
+/* propiedades texto h2 dentro de cada caja, color azul */
+h1 {
+  text-align: center;
+  color: #218380;
+  margin-left: 20px;
+}
+/* propiedades texto h1 titulo, color verde petroleo*/
+div.menu {
+  background-color: #2B3A67;
+  text-align: center;
+}
+/* propiedades menu,color azul */
+
+div.menu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+}
+
+div.menu a:hover {
+  background-color: #218380;
+}
+/* color cuando se pasa el mouse por encima */
+h2{
+  text-align: center;
+  color: #2B3A67;
+  margin-left: 20px;
+}

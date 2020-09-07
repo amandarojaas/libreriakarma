@@ -1,0 +1,45 @@
+body{
+  background-color: #E2F1AF;
+}
+div.catalogo{
+  padding-top: 50px;
+  margin-left: 50px;
+  vertical-align: middle;
+  width: 25%;
+  float: left;
+  position: relative;
+ }
+h1 {
+  text-align: center;
+  color: #218380;
+  margin-left: 20px;
+}
+p {
+  text-align: left;
+  color: #0a2463;
+  margin-left: 20px;
+}
+div.menu {
+  background-color: #2B3A67;
+  text-align: center;
+}
+
+div.menu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+}
+
+div.menu a:hover {
+  background-color: #218380;
+}
+div.catalogo img {
+  height: 400px;
+  width: 250px;
+}
+h2{
+  text-align: center;
+  color: #2B3A67;
+  margin-left: 20px;
+}
